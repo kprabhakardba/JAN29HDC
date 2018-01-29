@@ -1,0 +1,19 @@
+git bash
+cd c:
+cd devopsday1
+
+go to github.com
+ then click clone or download >> it will xxxxxx.git >> copy this link >> 
+
+come to git bash 
+git clone copied link
+
+if it asks credentials give ur credentials of github.
+
+now it will clone all the files from github.com to your local machine
+
+JAN29HDC
+all files we can see in local machine
+
+
+
